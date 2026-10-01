@@ -14,3 +14,5 @@ Explique:
 6. Como esse tipo de problema poderia ser evitado em uma situação real?
 
 **Não encerre a máquina antes da avaliação do professor.**
+---
+Cenário desenvolvido para atividade prática de Manutenção de Computadores.
